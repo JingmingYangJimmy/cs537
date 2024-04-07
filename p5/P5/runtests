@@ -1,3 +1,0 @@
-#!/bin/bash
-python3 P5/p5.py --test-path P5/ $@ | tee runtests.log
-exit $?
